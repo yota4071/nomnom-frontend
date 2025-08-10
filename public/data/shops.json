@@ -1,0 +1,92 @@
+{
+  "shops": [
+    {
+      "id": "1",
+      "name": "たこ焼き王国",
+      "location": "キャンパス前広場",
+      "image": "/images/sample.jpg",
+      "type": "たこ焼き",
+      "dish": "和食",
+      "rating": 4.5,
+      "reviewCount": 32,
+      "description": "本格的な大阪たこ焼きが楽しめます"
+    },
+    {
+      "id": "2", 
+      "name": "ピザマリオ",
+      "location": "学食前エリア",
+      "image": "/images/sample.jpg",
+      "type": "ピザ",
+      "dish": "洋食",
+      "rating": 4.2,
+      "reviewCount": 28,
+      "description": "窯焼きピザの香ばしい味わい"
+    },
+    {
+      "id": "3",
+      "name": "麺屋 龍",
+      "location": "図書館前",
+      "image": "/images/sample.jpg", 
+      "type": "ラーメン",
+      "dish": "中華",
+      "rating": 4.7,
+      "reviewCount": 45,
+      "description": "こだわりスープの絶品ラーメン"
+    },
+    {
+      "id": "4",
+      "name": "カレーハウス スパイス",
+      "location": "体育館横",
+      "image": "/images/sample.jpg",
+      "type": "カレー", 
+      "dish": "アジア料理",
+      "rating": 4.3,
+      "reviewCount": 21,
+      "description": "本格スパイスカレー専門店"
+    },
+    {
+      "id": "5",
+      "name": "クレープ マリー",
+      "location": "中央広場",
+      "image": "/images/sample.jpg",
+      "type": "クレープ",
+      "dish": "スイーツ",
+      "rating": 4.0,
+      "reviewCount": 18,
+      "description": "手作りクレープとドリンク"
+    },
+    {
+      "id": "6",
+      "name": "コーヒー ブルー",
+      "location": "メインゲート前",
+      "image": "/images/sample.jpg",
+      "type": "コーヒー",
+      "dish": "ドリンク",
+      "rating": 4.4,
+      "reviewCount": 35,
+      "description": "自家焙煎コーヒーとサンドイッチ"
+    },
+    {
+      "id": "7",
+      "name": "フライドチキン キング",
+      "location": "駐車場エリア",
+      "image": "/images/sample.jpg",
+      "type": "チキン",
+      "dish": "洋食", 
+      "rating": 4.1,
+      "reviewCount": 26,
+      "description": "サクサク衣の絶品フライドチキン"
+    },
+    {
+      "id": "8",
+      "name": "お好み焼き ひろし",
+      "location": "テニスコート前",
+      "image": "/images/sample.jpg",
+      "type": "お好み焼き",
+      "dish": "和食",
+      "rating": 4.6,
+      "reviewCount": 39,
+      "description": "広島風お好み焼きの老舗"
+    }
+  ]
+}
